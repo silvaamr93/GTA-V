@@ -1,6 +1,6 @@
 $(document).ready(function(){"use strict";
 $(window).load(function(){
-  $(body).addClass("flow");
+  $("body").addClass("flow");
   
   
   
