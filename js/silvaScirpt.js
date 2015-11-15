@@ -1,7 +1,10 @@
 $(document).ready(function(){"use strict";
 $(window).load(function(){
   $("body").addClass("flow");
-  
+  /* function isTouchDevice() {
+        return typeof window.ontouchstart !== 'undefined';
+    }
+*/
   
   
 });
